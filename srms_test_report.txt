@@ -1,0 +1,31 @@
+================================================
+  STUDENT RECORD MANAGEMENT SYSTEM — REPORT
+  Generated on: 2026-04-12 07:34:17
+  Total Students: 6
+================================================
+
+  ROLL |  NAME              | AGE | DEPT         | CGPA  | GRADE
+  -----|--------------------|----|--------------|-------|------
+  102  |  Priya Patel        | 21  | ECE          | 9.38  |  O
+  101  |  Rahul Sharma       | 20  | CSE          | 8.66  |  A
+  201  |  Jinadev R P        | 20  | CSE          | 8.66  |  A
+  104  |  Sneha Gupta        | 20  | IT           | 8.50  |  A
+  103  |  Amit Kumar         | 19  | ME           | 7.26  |  B
+  105  |  Vikram Singh       | 22  | CIVIL        | 3.60  |  F
+
+  SUBJECT-WISE MARKS:
+  ROLL | SUB1  | SUB2  | SUB3  | SUB4  | SUB5  | AVG
+  -----|-------|-------|-------|-------|-------|-------
+  102  | 95.0  | 92.0  | 98.0  | 90.0  | 94.0  | 93.8
+  101  | 85.0  | 90.0  | 78.0  | 92.0  | 88.0  | 86.6
+  201  | 85.0  | 90.0  | 78.0  | 92.0  | 88.0  | 86.6
+  104  | 88.0  | 82.0  | 85.0  | 80.0  | 90.0  | 85.0
+  103  | 72.0  | 78.0  | 70.0  | 68.0  | 75.0  | 72.6
+  105  | 30.0  | 45.0  | 38.0  | 25.0  | 42.0  | 36.0
+
+  STATISTICS:
+  Highest CGPA: 9.38 (Name: Priya Patel)
+  Lowest  CGPA: 3.60 (Name: Vikram Singh)
+  Average CGPA: 7.68
+  Pass Count  : 5
+  Fail Count  : 1
